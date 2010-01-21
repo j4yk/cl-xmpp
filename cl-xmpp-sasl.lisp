@@ -1,4 +1,4 @@
-;;;; $Id: cl-xmpp-sasl.lisp,v 1.12 2008/07/09 19:53:19 ehuelsmann Exp $
+;;;; $Id: cl-xmpp-sasl.lisp,v 1.13 2008/07/09 21:02:40 ehuelsmann Exp $
 ;;;; $Source: /project/cl-xmpp/cvsroot/cl-xmpp/cl-xmpp-sasl.lisp,v $
 
 ;;;; See the LICENSE file for licensing information.
@@ -8,8 +8,10 @@
 (defmethod if-successful-restart-stream ((connection connection) reply)
   (if (eq reply :authentication-successful)
       (progn
-        (setf (server-source connection) nil)
 	(begin-xml-stream connection :xml-identifier nil)
+        ;; Clean the server-source.
+        ;; See https://support.process-one.net/browse/EJAB-455
+        (setf (server-source connection) nil)
 	(receive-stanza connection) ; stream
 	(receive-stanza connection) ; features
 	reply) 
