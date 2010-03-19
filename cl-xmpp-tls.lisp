@@ -1,4 +1,4 @@
-;;;; $Id: cl-xmpp-tls.lisp,v 1.9 2007/03/05 17:38:35 jstecklina Exp $
+;;;; $Id: cl-xmpp-tls.lisp,v 1.9 2007-03-05 17:38:35 jstecklina Exp $
 ;;;; $Source: /project/cl-xmpp/cvsroot/cl-xmpp/cl-xmpp-tls.lisp,v $
 
 ;;;; See the LICENSE file for licensing information.

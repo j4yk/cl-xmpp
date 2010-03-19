@@ -1,5 +1,5 @@
 ;;;; -*- mode: lisp -*-
-;;;; $Id: cl-xmpp-sasl.asd,v 1.4 2005/11/14 19:21:06 eenge Exp $
+;;;; $Id: cl-xmpp-sasl.asd,v 1.4 2005-11-14 19:21:06 eenge Exp $
 ;;;; $Source: /project/cl-xmpp/cvsroot/cl-xmpp/cl-xmpp-sasl.asd,v $
 
 ;;;; See the LICENSE file for licensing information.

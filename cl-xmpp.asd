@@ -1,5 +1,5 @@
 ;;;; -*- mode: lisp -*-
-;;;; $Id: cl-xmpp.asd,v 1.10 2008/07/09 21:02:40 ehuelsmann Exp $
+;;;; $Id: cl-xmpp.asd,v 1.10 2008-07-09 21:02:40 ehuelsmann Exp $
 ;;;; $Source: /project/cl-xmpp/cvsroot/cl-xmpp/cl-xmpp.asd,v $
 
 ;;;; See the LICENSE file for licensing information.

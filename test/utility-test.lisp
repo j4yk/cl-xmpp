@@ -1,4 +1,4 @@
-;;;; $Id: utility-test.lisp,v 1.2 2005/11/14 15:14:10 eenge Exp $
+;;;; $Id: utility-test.lisp,v 1.2 2005-11-14 15:14:10 eenge Exp $
 ;;;; $Source: /project/cl-xmpp/cvsroot/cl-xmpp/test/utility-test.lisp,v $
 
 ;;;; See the LICENSE file for licensing information.

@@ -1,4 +1,4 @@
-;;;; $Id: cl-xmpp-sasl.lisp,v 1.13 2008/07/09 21:02:40 ehuelsmann Exp $
+;;;; $Id: cl-xmpp-sasl.lisp,v 1.13 2008-07-09 21:02:40 ehuelsmann Exp $
 ;;;; $Source: /project/cl-xmpp/cvsroot/cl-xmpp/cl-xmpp-sasl.lisp,v $
 
 ;;;; See the LICENSE file for licensing information.

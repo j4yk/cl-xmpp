@@ -1,4 +1,4 @@
-;;;; $Id: result.lisp,v 1.15 2008/07/09 21:15:57 ehuelsmann Exp $
+;;;; $Id: result.lisp,v 1.15 2008-07-09 21:15:57 ehuelsmann Exp $
 ;;;; $Source: /project/cl-xmpp/cvsroot/cl-xmpp/result.lisp,v $
 
 ;;;; See the LICENSE file for licensing information.

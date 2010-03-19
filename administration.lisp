@@ -1,4 +1,4 @@
-;;;; $Id: administration.lisp,v 1.1 2008/07/09 21:02:40 ehuelsmann Exp $
+;;;; $Id: administration.lisp,v 1.1 2008-07-09 21:02:40 ehuelsmann Exp $
 ;;;; $Source: /project/cl-xmpp/cvsroot/cl-xmpp/administration.lisp,v $
 
 (in-package :cl-xmpp)

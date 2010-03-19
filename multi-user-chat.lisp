@@ -1,4 +1,4 @@
-;;;; $Id: multi-user-chat.lisp,v 1.1 2008/07/09 21:02:40 ehuelsmann Exp $
+;;;; $Id: multi-user-chat.lisp,v 1.1 2008-07-09 21:02:40 ehuelsmann Exp $
 ;;;; $Source: /project/cl-xmpp/cvsroot/cl-xmpp/multi-user-chat.lisp,v $
 
 (in-package :cl-xmpp)
